@@ -20,6 +20,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/DarhonSoftware/DarhonFinance.git
-        tag: v1.5.0-3
-        commit: 26d4a5514c988b11de3e2c3dd7994c88f5806ee6
+        tag: v1.5.0-4_qt5
+        commit: 2893d688f1ba488ea19aec29565de96ccc8b6666
 
