@@ -1,6 +1,6 @@
 app-id: com.darhon.drfinance
 runtime: org.kde.Platform
-runtime-version: '5.15-23.08'
+runtime-version: '6.7'
 sdk: org.kde.Sdk
 command: drfinance
 finish-args:
@@ -20,6 +20,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/DarhonSoftware/DarhonFinance.git
-        tag: v1.5.0-3
-        commit: 26d4a5514c988b11de3e2c3dd7994c88f5806ee6
+        tag: v1.6.0
+        commit: 3ae3d7befe23590a1ffeb2b63bbeb770f9c99ae2
 
