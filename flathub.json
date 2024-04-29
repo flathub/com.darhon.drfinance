@@ -1,4 +1,4 @@
 {
-  "end-of-life": "This application is no longer maintained in favour of mobiFinance (Android)."
+  "end-of-life": "This application is no longer maintained in favour of mobiFinance (Android).",
   "skip-arches": ["aarch64"]
 }
