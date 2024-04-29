@@ -21,5 +21,5 @@ modules:
       - type: git
         url: https://github.com/DarhonSoftware/DarhonFinance.git
         tag: v1.6.0
-        commit: 44114326c26448010ac30599dde2ac521effbd0f
+        commit: 3ae3d7befe23590a1ffeb2b63bbeb770f9c99ae2
 
